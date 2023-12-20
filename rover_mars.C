@@ -18,11 +18,11 @@ int main(){
         {7, 8, 9}
     };
 
-
+printf(matrice[1][0]);
 
 
     printf("ciao sotto trovi una matrice");
 
 
-    printf(matrice[1][0]);
+    
 }
