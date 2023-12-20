@@ -2,7 +2,8 @@
     "files.associations": {
         "*.ejs": "html",
         "mars.C": "cpp",
-        "rover_mars.C": "cpp"
+        "rover_mars.C": "cpp",
+        "es_1_calcolo_della_somma.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
